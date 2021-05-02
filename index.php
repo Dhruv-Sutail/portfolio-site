@@ -326,7 +326,7 @@
                        subject: subject.val(),
                        body: body.val()
                    }, success: function (response) {
-                        $('.sent-notification').text("Please Check Your Email!");
+                        $('.sent-notification').text("Your Message has been Received!");
                    }
                 });
             }
