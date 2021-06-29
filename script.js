@@ -23,7 +23,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Developer at Desk", "Cloud Enginer", "UI/UX designer with Pen", "Anchor"],
+        strings: ["Developer at Desk", "Cloud Engineer", "UI/UX designer with Pen", "Anchor"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
