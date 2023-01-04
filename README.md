@@ -1,1 +1,1 @@
-## Portfolio link : https://dhruv-sutail.herokuapp.com/
+## Portfolio link : https://dhruv-sutail.netlify.app/
